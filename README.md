@@ -14,7 +14,6 @@
 
     Weather App
 <img align="left" width= "30%" src='./images/weatherApp_1.jpg' />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" width= "30%" src='./images/weatherApp_2.jpg' />
 <img align="right" width= "30%" src='./images/weatherApp_3.jpg' />
 <hr />
@@ -25,9 +24,9 @@
 
     Pokédex React - Front-end & Back-end App
 
-<img align="left" width= "30%" src='' />
-<img align="center" width= "30%" src='' />
-<img align="right" width= "30%" src='' />
+<img align="left" width= "30%" src='./images/Pokedex_1.jpg' />
+<img align="center" width= "30%" src='./images/Pokedex_2.jpg' />
+<img align="right" width= "30%" src='./images/Pokedex_3.jpg' />
 
      
   ******
