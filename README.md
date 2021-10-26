@@ -31,7 +31,7 @@
   ```
   
  Me: 📫 **johao.lopz.m@gmail.com**
-    <a href='https://capacitateparaelempleo.org/verifica/6hff4b10w/' target='_blank'><img align="right" src='./images/cert_Dev.jpg' border='2' alt='Certificate-Johao-Lopez'/></a>
+    <a href='https://capacitateparaelempleo.org/verifica/6hff4b10w/' target='_blank'></a>
  
   <p align="left">
         <a href="https://www.linkedin.com/in/danielopzm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/danielopzm/" height="20" width="30" />LinkedIn</a>
