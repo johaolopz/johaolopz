@@ -23,6 +23,14 @@
 
 <img align="left" width= "30%" src='./images/Pokedex_1.jpg' /><img align="center" width= "30%" src='./images/Pokedex_2.jpg' /><img align="right" width= "30%" src='./images/Pokedex_3.jpg' />
 
+
+
+    
+
+    GesSalud Sistema Web React - Front-end & Back-end App
+
+<img align="left" width= "30%" src='./images/GesSalud_1.jpg' /><img align="center" width= "30%" src='./images/GesSalud_2.jpg' /><img align="right" width= "30%" src='./images/GesSalud_3.jpg' />
+
      
   ******
   
@@ -31,7 +39,6 @@
   ```
   
  Me: 📫 **johao.lopz.m@gmail.com**
-    <a href='https://capacitateparaelempleo.org/verifica/6hff4b10w/' target='_blank'><img align="right" src='./images/cert_Dev.jpg' border='2' alt='Certificate-Johao-Lopez'/></a>
  
   <p align="left">
         <a href="https://www.linkedin.com/in/danielopzm/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/danielopzm/" height="20" width="30" />LinkedIn</a>
