@@ -13,7 +13,7 @@
 
 
     Weather App
----> Deployment Link: <a href="https://johaolopz.github.io/Weather-App/">Click Here</a><br>
+---> Deployment Link: <a href="https://johaolopz.github.io/Weather-App/">Click Here</a><br><br>
 <img align="left" width= "30%" src='./images/weatherApp_1.jpg' /><img align="center" width= "30%" src='./images/weatherApp_2.jpg' /><img align="right" width= "30%" src='./images/weatherApp_3.jpg' />
 ******
 
@@ -29,7 +29,7 @@
     
 
     GesSalud Sistema Web React - Front-end & Back-end App
----> Deployment Link: <a href="https://ges-salud.vercel.app/">Click Here</a><br>
+---> Deployment Link: <a href="https://ges-salud.vercel.app/">Click Here</a><br><br>
 <img align="left" width= "30%" src='./images/GesSalud_1.jpg' /><img align="center" width= "30%" src='./images/GesSalud_2.jpg' /><img align="right" width= "30%" src='./images/GesSalud_3.jpg' />
 
      
