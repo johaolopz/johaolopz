@@ -48,8 +48,8 @@
 
     
 
-    API RESTfull - Back-end App with MongoDB
----> Project Link: <a href="https://github.com/johaolopz/api_nodeJs_p1">Click Here</a><br><br>
+    API RESTful - Back-end App with MongoDB
+---> Deployment Link: <a href="https://pokedexjlopez.herokuapp.com/">Click Here</a><br><br>
 <img align="left" width= "30%" src='./images/api_nodejs_1.png' /><img align="center" width= "30%" src='./images/api_nodejs_2.png' /><img align="right" width= "30%" src='./images/api_nodejs_3.png' />
 
      
